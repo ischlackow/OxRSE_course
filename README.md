@@ -1,3 +1,5 @@
+![3.6-3.8](https://github.com/ischlackow/OxRSE_course/workflows/3.6-3.8/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
